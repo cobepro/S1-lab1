@@ -1,0 +1,11 @@
+commit c92329b6c1af5e95adb7cd38d18c42613ce55d61 (HEAD -> logging, origin/master, master)
+Author: unknown <slobodan.bocevski@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:46:43 2018 +0100
+
+    modify l1.txt
+
+commit d3f87920f3caba1d42b6413c740287b0ede0ecba
+Author: unknown <slobodan.bocevski@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:39:53 2018 +0100
+
+    Initial commit
